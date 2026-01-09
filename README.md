@@ -1,2 +1,3 @@
 # NathaniCables-Electricals
-this is made for cables and electronics  distributor
+This is made for cables and electronics  distributor
+Author - Digambar Gaikwad
